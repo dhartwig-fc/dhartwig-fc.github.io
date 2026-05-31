@@ -35,7 +35,7 @@ This portfolio demonstrates practical Financial Crime transformation concepts th
 Key focus areas include:
 
 - AML Alert Triage & Risk Scoring
-- AI-Assisted Investigator Workflows
+- Investigator Workflow Optimisation
 - Network Analytics & Entity Resolution
 - Quantexa + AI Integration Concepts
 - Trade Finance (TBML) Analytics
