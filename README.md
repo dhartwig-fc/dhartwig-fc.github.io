@@ -11,28 +11,37 @@ Financial Crime professional with experience across Financial Crime Transformati
 
 This portfolio demonstrates practical prototypes and strategic concepts exploring how Artificial Intelligence, Network Analytics and Automation can transform Financial Crime Operations.
 
-Current focus areas include:
+## Technical Skills
 
-- AI Investigator Copilots
-- AML Alert Triage
+- Financial Crime Transformation
+- AML Operations
+- Transaction Monitoring
+- Sanctions domain knowledge
 - Network Analytics & Entity Resolution
-- Quantexa + AI Integration
 - Trade Finance (TBML) Analytics
-- Capital Markets Surveilllance Analytics
 - Correspondent Banking Analytics
-- Financial Crime Target Operating Models
+- Python
+- Pandas
+- Streamlit
+- GitHub
+- Jupyter Notebooks
+- AI Use Case Design
 - AI Governance & Controls
 
-LinkedIn:
-https://www.linkedin.com/in/dan-hartwig-financial-crime
+## Financial Crime Portfolio Focus
 
-GitHub:
-https://github.com/dhartwig-fc
+This portfolio demonstrates practical Financial Crime transformation concepts through Python prototypes, analytics frameworks and AI-enabled workflow designs.
 
+Key focus areas include:
 
-## Financial Crime Portfolio
-
-Building AI-enabled Financial Crime solutions across AML, Network Analytics, TBML and Banking Operations.
+- AML Alert Triage & Risk Scoring
+- AI-Assisted Investigator Workflows
+- Network Analytics & Entity Resolution
+- Quantexa + AI Integration Concepts
+- Trade Finance (TBML) Analytics
+- Correspondent Banking Analytics
+- Capital Markets Surveillance Analytics
+- AI Governance & Controls
 
 ---
 
@@ -62,5 +71,14 @@ AI enrichment, investigator guidance, case narrative generation and operational 
 
 Repository:
 https://github.com/dhartwig-fc/fc-ai-investigator-copilot
+
+## Current Development Roadmap
+
+- Financial Crime Network Analytics Prototype
+- Quantexa + AI Integration Blueprint
+- Trade Finance (TBML) Analytics Toolkit
+- Correspondent Banking Analytics Toolkit
+- Capital Markets Surveillance Analytics Toolkit
+- AI Governance Framework for AML Operations
 
 ---
