@@ -260,7 +260,7 @@ Repository:
 | 📋 Planned | Detection Strategy Library |
 | 📋 Planned | Correspondent Banking Analytics Toolkit |
 | 📋 Planned | Capital Markets Surveillance Toolkit |
-| 📋 Planned | Sanctions Analytics Toolkit |
+| 🚧 Active Development | Sanctions Analytics Toolkit |
 | 📋 Planned | AI Governance Framework |
 
 ---
