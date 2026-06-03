@@ -30,9 +30,9 @@
   </a>
 </p>
 
-# 🌍 Portfolio Repositories
+# 🌍 Repository Portfolio 
 
-## 👉 [View Repository Portfolio](https://github.com/dhartwig-fc)
+## 👉 [Explore Repository Portfolio](https://github.com/dhartwig-fc)
 
 Explore the complete Financial Crime repository portfolio including analytics frameworks, network intelligence methodologies, AI-enabled operating models and transformation assets.
 
